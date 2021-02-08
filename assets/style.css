@@ -11,8 +11,8 @@
   height: 100px;
   left: 0px;
   top: 0px;
-  /* background: #ffffff; */
-  background: green;
+  background: #ffffff;
+  /* background: green; */
   box-shadow: 0px 0.5px 0px #dddfe6;
 }
 
@@ -26,7 +26,7 @@
   left: 536px;
   top: 62px;
   /* transform: rotate(-90deg); */
-  background-color: red;
+  /* background-color: red; */
 }
 
 .hello {
@@ -107,4 +107,94 @@
   text-align: right;
 
   color: #1a2236;
+}
+
+.pageone {
+  position: absolute;
+  width: 1440px;
+  height: 726px;
+  left: 0px;
+  top: 100px;
+  /* background: #ffffff; */
+  background: green;
+  box-shadow: 0px 0.5px 0px #dddfe6;
+}
+.group48 {
+  position: absolute;
+  width: 484px;
+  height: 493px;
+  left: 160px;
+  top: 292px;
+}
+.charlie {
+  position: absolute;
+  width: 484px;
+  height: 220px;
+  left: 160px;
+  top: 292px;
+
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 110px;
+  line-height: 100%;
+  /* or 110px */
+
+  color: #1a2236;
+
+  border: 1px solid #1a2236;
+}
+.helloiam{
+  position: absolute;
+  width: 484px;
+  height: 84px;
+  left: 160px;
+  top: 572px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: -0.01em;
+
+  color: #1a2236;
+}
+
+.group19 {
+  position: absolute;
+  left: 11.11%;
+  right: 71.25%;
+  top: 14.74%;
+  bottom: 83.82%;
+}
+.rectangle20 {
+  position: absolute;
+  width: 254px;
+  height: 70px;
+  left: 160px;
+  top: 715px;
+
+  background: #1a2236;
+}
+
+.start {
+  position: absolute;
+  width: 203.68px;
+  height: 26.47px;
+  /* left: 185.16px; */
+  left: 25px;
+  /* top: 736.76px; */
+  top: 25px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
 }
