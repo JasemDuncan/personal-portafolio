@@ -1,0 +1,110 @@
+.main {
+  position: relative;
+  width: 1440px;
+  height: 4852px;
+  background: rgb(150, 144, 144);
+}
+
+.rectangle37 {
+  position: absolute;
+  width: 1440px;
+  height: 100px;
+  left: 0px;
+  top: 0px;
+  /* background: #ffffff; */
+  background: green;
+  box-shadow: 0px 0.5px 0px #dddfe6;
+}
+
+.group4 {
+  /* Group 4 */
+  position: absolute;
+  /* width: 24px; */
+  /* height: 369px; */
+  width: 369px;
+  height: 24px;
+  left: 536px;
+  top: 62px;
+  /* transform: rotate(-90deg); */
+  background-color: red;
+}
+
+.hello {
+  position: absolute;
+  width: 39px;
+  height: 24px;
+  /* left: 536px; */
+  /* top: 38px; */
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  text-align: right;
+
+  color: #1a2236;
+  background: greenyellow;
+}
+
+.portafolio {
+  position: absolute;
+  width: 66px;
+  height: 24px;
+  /* left: 625px; */
+  left: 89px;
+  /* top: 38px; */
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  text-align: right;
+
+  color: #1a2236;
+}
+
+.about {
+  position: absolute;
+  width: 48px;
+  height: 24px;
+  /* left: 741px; */
+  left: 205px;
+  /* top: 38px; */
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  text-align: right;
+
+  color: #1a2236;
+}
+
+.contact {
+  position: absolute;
+  width: 66px;
+  height: 24px;
+  /* left: 839px; */
+  left: 303px;
+  /* top: 38px; */
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  text-align: right;
+
+  color: #1a2236;
+}
