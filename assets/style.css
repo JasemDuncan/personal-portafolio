@@ -397,3 +397,280 @@ top: 1534px; */
   height: 24px;
   background: chartreuse;
 }
+
+.pagethree {
+  width: 1440px;
+  height: 726px;
+  /* left: 0px; */
+  /* top: 100px; */
+  /* background: #ffffff; */
+  background: green;
+  box-shadow: 0px 0.5px 0px #dddfe6;
+  display: flex;
+  flex-direction: row; 
+  justify-content: space-between;
+}
+
+.projectsmall {
+  width: 465px;
+  height: 488px;
+  background: beige;
+}
+.rectangle45{
+  width: 465px;
+height: 218px;
+/* left: 975px;
+top: 1797px; */
+
+background: linear-gradient(0deg, rgba(26, 34, 54, 0.95), rgba(26, 34, 54, 0.95));
+backdrop-filter: blur(24px);
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+
+}
+
+.rectangle26 {
+  width: 465px;
+height: 270px;
+/* left: 975px;
+top: 2015px; */
+
+background: url(image.png);
+border: 1px solid rgba(255, 255, 255, 0.1);
+background: blueviolet;
+}
+
+.projectnamesmall{
+  /* width: 411px;
+  height: 32px; */
+/* left: 1005px;
+top: 1827px; */
+width: 80%;
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 80%;
+/* padding-left: 4%;
+padding-top: 4%; */
+/* identical to box height, or 32px */
+
+
+color: #FFFFFF;
+}
+
+.skillssmall{
+  width: 94px;
+height: 16px;
+/* left: 1025px;
+top: 1891px; */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 80%;
+/* identical to box height, or 16px */
+
+background: #98DEDE;
+color: #1A2236;
+}
+
+.group77{
+  width: 212px;
+  height: 51px;
+  left: 540px;
+  top: 1634px;
+
+  background: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.seethissmall {
+  /* width: 139px; */
+  height: 27px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #1a2236;
+  background: chocolate;
+}
+
+.icarroysmall {
+  width: 24px;
+  height: 24px;
+  background: chartreuse;
+}
+
+.skillssmall {
+  width:90%;
+  height: 40px;
+  background: chocolate;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  /* justify-content: center; */
+}
+
+.skillsdetailssmall {
+  /* margin: 10px; */
+  padding: 12px;
+  /* height: 40px; */
+  /* left: 540px;
+top: 1534px; */
+
+  background: #98dede;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 80%;
+  /* identical to box height, or 16px */
+
+  color: #1a2236;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-content: center; */
+  align-items: center;
+}
+.rectangle26{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.pagefour {
+  width: 1440px;
+  height: 726px;
+  /* left: 0px; */
+  /* top: 100px; */
+  /* background: #ffffff; */
+  background: sienna;
+  box-shadow: 0px 0.5px 0px #dddfe6;
+  display: flex;
+  flex-direction: row; 
+  justify-content: space-between;
+}
+.fourleft {
+  width: 50%;
+  height: 100%;
+  background: silver;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.habilities{
+  width: 80%;
+  height: 60%;
+  background: gold;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.fourright {
+  width: 50%;
+  height: 100%;
+  background: gainsboro;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.aboutgroup {
+  width: 80%;
+  height: 60%;
+  background: gold;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.aboutcv{
+  /* position: absolute; */
+  width: 295px;
+  height: 110px;
+  /* left: 834px;
+  top: 3074px; */
+  
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 110px;
+  line-height: 100%;
+  /* identical to box height, or 110px */
+  
+  
+  color: #1A2236;
+  
+  /* border: 1px solid #1A2236; */
+}
+
+.aboutdescription {
+  width: 446px;
+height: 84px;
+/* left: 834px;
+top: 3214px; */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+
+color: #1A2236;
+}
+
+.cv{
+  width: 254px;
+height: 70px;
+/* left: 834px;
+top: 3340px; */
+
+background: #1A2236;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+
+.cvtext{
+  /* position: absolute; */
+width: 150px;
+height: 27px;
+/* left: 889px;
+top: 3362px; */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.cvdownloadlogo{
+  width: 40px;
+  height: 17.79px;
+/* left: 1014px;
+top: 3363px; */
+
+background: #FFFFFF;
+}
