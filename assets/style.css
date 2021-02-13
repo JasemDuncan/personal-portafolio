@@ -755,8 +755,116 @@ background: #FFFFFF;
 }
 
 .form{
-  width: 50%;
+  width: 40%;
   height: 70%;
 
   background: burlywood;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
 }
+
+.get{
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 110px;
+  line-height: 100%;
+  /* identical to box height, or 110px */
+
+  text-align: center;
+
+  color: #1A2236;
+
+
+}
+
+.formtext{
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: -0.01em;
+
+  color: #1A2236;
+}
+
+.contactg{
+  width: 100%;
+  height: 50%;
+  background: azure;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+
+.nameemail {
+  width: 100%;
+  height: 20%;
+  background: chartreuse;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.name{
+  width: 40%;
+  height: 100%;
+  background:darkcyan ;
+  display: flex;
+  flex-direction: column;
+}
+.namelabel{
+width: 100%;
+height: 30%;
+background: darkgreen;
+}
+.nametextbox {
+  width: 100%;
+  height: 70%;
+  background: darkseagreen;
+}
+.nameinput{
+  width: 90%;
+  height: 30px;
+  /* background: #FFFFFF; */
+
+}
+.email{
+  width: 40%;
+  height: 100%;
+  background:darkgoldenrod ;
+}
+
+.emaillabel{
+  width: 100%;
+  height: 30%;
+  background: darkseagreen;
+}
+
+.emailtextbox{
+  width: 100%;
+  height: 70%;
+  background: darkslateblue;
+}
+
+.emailinput{
+  width: 90%;
+  height: 30px;
+}
+
+
+.message{
+  width: 100%;
+  height: 60%;
+  background: chocolate;
+}
+
+.bottom{
+  width: 100%;
+  height: 20%;
+  background: darkblue;
+}
+
