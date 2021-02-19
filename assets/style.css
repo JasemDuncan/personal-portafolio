@@ -28,7 +28,7 @@
 .group4 {
   width: 369px;
   height: 24px;
-  background-color: red;
+  /* background-color: red; */
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -45,7 +45,7 @@
   line-height: 24px;
   text-align: right;
   color: #1a2236;
-  background: greenyellow;
+  /* background: greenyellow; */
 }
 
 .portafolio {
